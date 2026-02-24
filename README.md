@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # crypto_guide
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Dropify
+A airdrop learning app along with intereactive UI , used services firebase (authentication, database, storage), REST API 
+>>>>>>> 2b1e8e133a2dde927124995c5c40e78a2a9cca4a
