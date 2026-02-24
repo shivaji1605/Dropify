@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "897047020437",
+    "project_id": "cryptoguide-2025",
+    "storage_bucket": "cryptoguide-2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897047020437:android:4f95ef35e83bbe17d5ac9c",
+        "android_client_info": {
+          "package_name": "com.example.crypto_guide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQBMLQH-egVqjAlQAgeEGZWoQl1Xa0tds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
